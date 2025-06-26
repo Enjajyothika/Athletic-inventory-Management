@@ -1,3 +1,6 @@
+# 🏋️ Athletic Equipment Inventory System
+
+
 A full-featured equipment inventory management app built using **Python** and **Streamlit**, supporting both **Admin** and **User** roles. This system allows users to collect and manage athletic equipment with real-time tracking and admin control.
 
 ---
